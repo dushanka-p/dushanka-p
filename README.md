@@ -5,6 +5,15 @@ My mission: **Operationalize detection engineering, incident response, and SOC w
 
 ---
 
+---
+
+> ⚠️ **Work in Progress:**  
+> This portfolio is constantly evolving. Some sections are still being built out as I deepen my skills, add new simulations, and improve detections.  
+> I’m always adding, refining, and learning — check back for updates!
+
+---
+
+
 ## 🚩 Mindset
 
 * **Attack ≠ Theory.** Everything here is hands-on, simulated, and mapped to actual adversary behaviors.

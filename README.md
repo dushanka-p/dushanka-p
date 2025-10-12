@@ -16,15 +16,15 @@ My projects demonstrate end-to-end SOC operations — from **threat simulation a
 
 ## 🚨 SOC & Threat Hunting Projects
 
-* **[Microsoft Sentinel Detection & Investigation Labs]([https://github.com/dushanka-p/soc-playbooks-portfolio](https://github.com/dushanka-p/soc-portfolio))**
+* **[Microsoft Sentinel Detection & Investigation Labs](https://github.com/dushanka-p/soc-playbooks-portfolio)**
   MITRE-mapped playbooks, Atomic Red Team simulations, and incident workflows.
+
+* **[Threat Hunting Scenarios — Azure Cyber Range](https://github.com/dushanka-p/threat-hunting/tree/main)**
+  Realistic detections for activities such as lateral movement, exfiltration, and credential misuse.
 
 ---
 
 ## ⚙️ Vulnerability Management Projects
-
-* **[Vulnerability Management Program Implementation](https://github.com/dushanka-p/vulnerability-management-program)**
-  End-to-end VM lifecycle using Tenable Agents, risk scoring, and remediation tracking.
 
 * **[Vulnerability Remediation Scripts & STIG Fixes](https://github.com/dushanka-p/vulnerability-management-remediations)**
   PowerShell-based fixes and validation steps mapped to DISA STIG IDs.

@@ -16,11 +16,8 @@ My projects demonstrate end-to-end SOC operations — from **threat simulation a
 
 ## 🚨 SOC & Threat Hunting Projects
 
-* **[Microsoft Sentinel Detection & Investigation Labs](https://github.com/dushanka-p/soc-playbooks-portfolio)**
+* **[Microsoft Sentinel Detection & Investigation Labs]([https://github.com/dushanka-p/soc-playbooks-portfolio](https://github.com/dushanka-p/soc-portfolio))**
   MITRE-mapped playbooks, Atomic Red Team simulations, and incident workflows.
-
-* **[Threat Hunting Scenarios — Azure Cyber Range](https://github.com/dushanka-p/threat-hunting-scenarios)**
-  Realistic detections for activities such as lateral movement, exfiltration, and credential misuse.
 
 ---
 

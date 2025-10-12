@@ -1,26 +1,49 @@
-# <a href="https://www.linkedin.com/in/dushanka-perera/">Dushanka P.</a>'s Cybersecurity Project Portfolio 🔐
+# 🔐 [Dushanka Perera](https://www.linkedin.com/in/dushanka-perera/) — Cybersecurity Project Portfolio
 
-I’m passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. Whether it’s vulnerability management or threat detection, I enjoy diving deep into the evolving security landscape. Take a look at my projects to see how I’ve applied my skills to strengthen security operations and processes.
+I’m a **Cybersecurity Support Analyst** specialising in **Microsoft Sentinel, Defender for Endpoint, and Vulnerability Management**.
+My projects demonstrate end-to-end SOC operations — from **threat simulation and detection engineering** to **vulnerability remediation and secure configuration** — all built and tested within an **Azure-based Cyber Range** environment.
 
+---
 
-## ⚠️ Vulnerability Management Projects
+## 🧠 Core Focus Areas
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertestttttttttt/vulnerability-management-program)**
-- **[Vulnerability Management Remediations](https://github.com/dushanka-p/vulnerability-management-remediations)**
+* **SOC & Threat Detection** — Incident triage, KQL rule creation, and Microsoft Sentinel alert tuning.
+* **Threat Simulation & Hunting** — MITRE ATT&CK-aligned Atomic Red Team tests and investigation workflows.
+* **Vulnerability Management** — Tenable-driven remediation, DISA STIG compliance, and security hardening.
+* **Blue Team Automation** — PowerShell tooling for log analysis and remediation scripting.
 
-## 🚨 Threat Hunting and Security Operations
+---
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmatytytytytyyyyyyydakor0/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Devices Exposed to the Internet)](https://github.com/joshmatytytytytyyyyyyydakor0/threat-hunting-scenario-tor)**
+## 🚨 SOC & Threat Hunting Projects
 
-<hr/>
+* **[Microsoft Sentinel Detection & Investigation Labs](https://github.com/dushanka-p/soc-playbooks-portfolio)**
+  MITRE-mapped playbooks, Atomic Red Team simulations, and incident workflows.
 
-## 🤳 Connect With Me
+* **[Threat Hunting Scenarios — Azure Cyber Range](https://github.com/dushanka-p/threat-hunting-scenarios)**
+  Realistic detections for activities such as lateral movement, exfiltration, and credential misuse.
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://www.linkedin.com/in/dushanka-perera/
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+## ⚙️ Vulnerability Management Projects
+
+* **[Vulnerability Management Program Implementation](https://github.com/dushanka-p/vulnerability-management-program)**
+  End-to-end VM lifecycle using Tenable Agents, risk scoring, and remediation tracking.
+
+* **[Vulnerability Remediation Scripts & STIG Fixes](https://github.com/dushanka-p/vulnerability-management-remediations)**
+  PowerShell-based fixes and validation steps mapped to DISA STIG IDs.
+
+---
+
+## 🧩 Labs & Automation
+
+* **[PowerShell SOC Tools](https://github.com/dushanka-p/SOC-PowerShell-Tools)**
+  Custom scripts for phishing analysis, event log monitoring, and automated IR collection.
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dushanka%20Perera-blue?logo=linkedin)](https://www.linkedin.com/in/dushanka-perera/)
+[![GitHub](https://img.shields.io/badge/GitHub-dushanka--p-lightgrey?logo=github)](https://github.com/dushanka-p)
+
+---
